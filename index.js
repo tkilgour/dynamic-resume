@@ -298,5 +298,6 @@ const docDefinition = {
 };
 
 const pdfDoc = printer.createPdfKitDocument(docDefinition);
+fs.mkdirSync("pdfs", { recursive: true });
 pdfDoc.pipe(fs.createWriteStream("pdfs/Thomas Kilgour resume.pdf"));
 pdfDoc.end();
