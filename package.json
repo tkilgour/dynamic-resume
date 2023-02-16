@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "nodemon ./index.js localhost 8080"
+    "dev": "nodemon ./index.js"
   },
   "keywords": [],
   "author": "Thomas Kilgour",

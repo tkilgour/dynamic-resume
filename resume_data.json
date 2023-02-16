@@ -20,9 +20,20 @@
       "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\"><path fill=\"#3182ce\" d=\"M19 3a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h14m-.5 15.5v-5.3a3.26 3.26 0 0 0-3.26-3.26c-.85 0-1.84.52-2.32 1.3v-1.11h-2.79v8.37h2.79v-4.93c0-.77.62-1.4 1.39-1.4a1.4 1.4 0 0 1 1.4 1.4v4.93h2.79M6.88 8.56a1.68 1.68 0 0 0 1.68-1.68c0-.93-.75-1.69-1.68-1.69a1.69 1.69 0 0 0-1.69 1.69c0 .93.76 1.68 1.69 1.68m1.39 9.94v-8.37H5.5v8.37h2.77Z\"/></svg>"
     }
   ],
+  "skills": [
+    "HTML / CSS / Sass",
+    "JavaScript",
+    "Vue / React",
+    "Git / Github",
+    "REST / GraphQL APIs",
+    "Node",
+    "AWS / Serverless",
+    "Accessibility",
+    "Automated Testing",
+    "Responsive Design"
+  ],
   "summary": [
-    "I am a web developer who has focused primarily on front-end technologies. I am driven to create elegant user interfaces that are simple to navigate and interact with, no matter the  screen size or the user's accessibility needs.",
-    "I have extensive customer service experience and can strike up a conversation with anyone. When not in front of the computer, you’ll find me outside – riding my bike, hiking in the woods, or camping with my family."
+    "I am a web developer who has focused primarily on front-end technologies. I am driven to create elegant user interfaces that are simple to navigate and interact with, no matter the  screen size or the user's accessibility needs. I am passionate about writing clean, well-documented code that can be easily understood by other developers. I am also a strong communicator, and I enjoy working closely with clients to ensure that the final product meets their needs."
   ],
   "roles": [
     {
@@ -77,6 +88,49 @@
             "worked independently on a project-by-project basis"
           ]
         }
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "The Inverted Method",
+      "url": "https://inverted-method.kilgour.co/",
+      "content": [
+        "A single-serving animated site that demonstrates how to make coffee with an Aeropress using the inverted method.",
+        {
+          "type": "ul",
+          "value": [
+            "100% pure CSS illustrations and animations",
+            "100 pure vanilla JavaScript"
+          ]
+        }
+      ]
+    }
+  ],
+  "education": [
+    {
+      "title": "Professional Web Accessibility Auditing",
+      "location": "The Chang School of Continuing Education, Ryerson University",
+      "start": "2017",
+      "content": [
+        "Accessibility auditing course that covered WCAG 2.0, ARIA, and more."
+      ]
+    },
+    {
+      "title": "Immersive Web Development Bootcamp",
+      "location": "Lighthouse Labs",
+      "start": "2017",
+      "content": [
+        "An eight week intensive web development bootcamp that covered HTML, CSS, JavaScript, jQuery, Node, Express, PostgreSQL, React, and more."
+      ]
+    },
+    {
+      "title": "Computer Science",
+      "location": "Concordia University",
+      "start": "2014",
+      "end": "2015",
+      "content": [
+        "Completed a year of computer science credits, including Intro to Programming, System Hardware, Digital Logic, and Web Development courses."
       ]
     }
   ]
