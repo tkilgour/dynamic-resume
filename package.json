@@ -2,10 +2,11 @@
   "name": "dynamic-resume",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "type": "module",
+  "main": "app.js",
   "scripts": {
-    "dev": "nodemon ./index.js",
-    "build": "npm i && node ./index.js"
+    "dev": "nodemon ./app.js",
+    "build": "npm i && node ./app.js"
   },
   "keywords": [],
   "author": "Thomas Kilgour",

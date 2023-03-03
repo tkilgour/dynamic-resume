@@ -1,0 +1,151 @@
+{
+  "skills": [
+    "HTML / CSS / Sass",
+    "JavaScript",
+    "Vue / React",
+    "Git / Github",
+    "REST / GraphQL APIs",
+    "Node",
+    "AWS / Serverless",
+    "Accessibility",
+    "Automated Testing",
+    "Responsive Design"
+  ],
+  "summary": [
+    "Friendly and professional web developer with 6+ years of experience. Primarily front end focused, but won’t shy away from digging into backend code. Focused on creating user-centric application interfaces that are accessible, usable, and built upon a solid data model. Natural communicator that collaborates across a full team and ensures stakeholders needs are met."
+  ],
+  "roles": [
+    {
+      "title": "Web Developer",
+      "company": "KPDI Digital",
+      "start": "Nov 2018",
+      "end": "Present",
+      "content": [
+        "Worked on many client projects of all sizes as a lead front end developer using Vue.js and React. Collaborated with many roles across a diverse range of teams and often worked directly with clients.",
+        {
+          "type": "ul",
+          "value": [
+            "Lead developer on a Vue.js application for one of Canada’s largest retailers that gets >1M monthly users",
+            "Front end developer of a cannabis distribution platform that was built in less than 6 months to meet market demand",
+            "Developed numerous internal client tools to meet the needs of industries such as grocery, oil/gas, and industrial footwear",
+            "Key business relationship over numerous years to what has become KPDI's largest client"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Web Developer",
+      "company": "Interad Media Design Corp.",
+      "start": "Apr 2017",
+      "end": "Aug 2018",
+      "content": [
+        "Worked as a front-end web developer on projects primarily for a single major Canadian bank.",
+        {
+          "type": "ul",
+          "value": [
+            "Built web sites from designs using client-provided content",
+            "Developed interactive banking calculator widgets",
+            "Worked in close communication with project managers and clients"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Graphic Design Assistant",
+      "company": "WriteDesign",
+      "start": "2011",
+      "end": "2016",
+      "content": [
+        "Worked as an assistant for an independent print graphic designer.",
+        {
+          "type": "ul",
+          "value": [
+            "Photo editing in Photoshop",
+            "Graphics manipulation and creation in Illustrator",
+            "Large multi-page layout using InDesign",
+            "Worked independently on a project-by-project basis"
+          ]
+        }
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "Tempero",
+      "url": "https://todo.kilgour.co/",
+      "content": [
+        "A simple To Do app that acts as a daily list. Add and check off today's items – tomorrow they disappear!",
+        {
+          "type": "ul",
+          "value": [
+            "Modern Vue stack: Vue 3, Pinia, Vite, Tailwind",
+            "A practical use case for building another To Do app!"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "The Inverted Method",
+      "url": "https://inverted-method.kilgour.co/",
+      "content": [
+        "A single-serving animated site that demonstrates how to make coffee with an Aeropress using the inverted method.",
+        {
+          "type": "ul",
+          "value": [
+            "100% pure CSS illustrations and animations",
+            "100 pure vanilla JavaScript"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Wedding RSVP App",
+      "url": "https://github.com/tkilgour/sk-wedding",
+      "content": [
+        "A simple RSVP application I built specifically for my wedding. Used this project as an opportunity to learn Vue.js.",
+        {
+          "type": "ul",
+          "value": [
+            "Frontend built with Vue.js and Semantic UI",
+            "Backend built with Node.js, Express and MongoDB",
+            "Deployed with Heroku and notifications sent with Pushbullet API"
+          ]
+        }
+      ]
+    }
+  ],
+  "education": [
+    {
+      "title": "Professional Web Accessibility Auditing",
+      "location": "The Chang School of Continuing Education, Ryerson University",
+      "start": "2017",
+      "content": [
+        "Accessibility auditing course that covered WCAG 2.0, ARIA, and more."
+      ]
+    },
+    {
+      "title": "Immersive Web Development Bootcamp",
+      "location": "Lighthouse Labs",
+      "start": "2017",
+      "content": [
+        "An eight week intensive web development bootcamp that covered HTML, CSS, JavaScript, jQuery, Node, Express, PostgreSQL, React, and more."
+      ]
+    },
+    {
+      "title": "Computer Science",
+      "location": "Concordia University",
+      "start": "2014",
+      "end": "2015",
+      "content": [
+        "Completed a year of computer science credits, including Intro to Programming, System Hardware, Digital Logic, and Web Development courses."
+      ]
+    }
+  ],
+  "hobbies": [
+    "Hardware Tinkering",
+    "Home Automation",
+    "Biking",
+    "Rock Climbing",
+    "Camping"
+  ]
+}
